@@ -1,2 +1,1 @@
-application:
-  message: Configured by Azure Spring Cloud
+lucky-word: Configured by Azure Spring Cloud
